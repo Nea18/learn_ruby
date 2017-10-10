@@ -1,3 +1,4 @@
 class Book
-# write your code here
+  def title=(new_title)
+  #je ne comprends pas cet exercice désolée
 end

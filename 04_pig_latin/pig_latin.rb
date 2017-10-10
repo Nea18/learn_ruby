@@ -1,1 +1,3 @@
-#write your code here
+def translate(word)
+    #je ne comprends pas cet exercice désolée
+end
